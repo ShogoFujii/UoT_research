@@ -1,0 +1,2 @@
+src_port,src_adrs,dst_adrs,Flow_Size,start_time,end_time,completion_time,completion_time[ms],[Mb/s]
+59521,192.168.10.12,192.168.10.11,49937992,0.0,10.179219007,10.179219007,10179.219007,0.0
